@@ -1,4 +1,4 @@
-test
+Test repository
 ====
 
-Test repo to know more about Git
+Test repo to know more about Git.
